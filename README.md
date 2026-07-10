@@ -20,12 +20,12 @@ A modern desktop medicine information application built with **Python** and  **T
 ---
 
 ## Download
-Download  the latest executable from the **Releases** section
+ Download  the latest executable from the **Releases** section
 ---
 
 ## Developer
-**Daksh Gohil**
+ **Daksh Gohil**
 ---
 
 ## License
-This project is released under the MIT License
+ This project is released under the MIT License
