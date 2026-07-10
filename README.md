@@ -12,3 +12,20 @@ A modern desktop medicine information application built with **Python** and  **T
 - Modern desktop GUI
 - Fast and lightweight
 ---
+
+## Build With
+- Python 3.13
+- Tkinter
+- JSON
+---
+
+## Download
+Download  the latest executable from the **Releases** section
+---
+
+## Developer
+**Daksh Gohil**
+---
+
+## License
+This project is released under the MIT License
